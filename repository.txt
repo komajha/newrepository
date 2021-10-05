@@ -4,3 +4,4 @@ sum=a+b
 print(sum)
 print(a)
 print(b)
+print("Sum is :",sum)
